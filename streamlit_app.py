@@ -38,7 +38,7 @@ labels = ['Coccidiosis', 'Healthy', 'New Castle Disease', 'Salmonella']
 st.set_page_config(page_title="Phát hiện bệnh qua phân gà",
                    page_icon="🐔", layout="wide")
 st.sidebar.title("⚙️ Menu điều hướng")
-st.sidebar.markdown("## 📋 Hướng dẫn sử dụng")
+st.sidebar.markdown("## 📋 Hướngg dẫn sử dụng")
 st.sidebar.markdown("""
 1. Tải lên ảnh phân gà hoặc chụp bằng camera.
 2. Nhấn **Xử lý** để phát hiện vùng bệnh.
